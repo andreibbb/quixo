@@ -1,2 +1,2 @@
 # quixo-game
-Quixo board-game using modern C++ things.
+Quixo board-game using modern C++.
